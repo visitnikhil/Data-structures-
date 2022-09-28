@@ -39,18 +39,3 @@ main()
 }
 
 
-output:
-Enter the size of an array:3
-Enter index 0 elementlasya
-Enter index 1 elementEnter index 2 element
-element at index 0 is -1
-element at index 1 is -1
-element at index 2 is 47
-
-Enter the position you want to insert:
-Enter the data you want to insert:
-updated array :
-element at index 0 = 0
-element at index 1 = -1
-element at index 2 = -1
-element at index 3 = 47
