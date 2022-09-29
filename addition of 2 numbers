@@ -1,0 +1,17 @@
+#include<stdio.h>
+int main()
+{
+	printf("\n\n");
+	int a,b,c;
+	scanf("%d%d",&a,&b);
+	c=a+b;
+	printf("sum=%d",c);
+	return 0;
+}
+output:
+2
+4
+sum=6
+--------------------------------
+Process exited after 7.943 seconds with return value 0
+Press any key to continue . . .
